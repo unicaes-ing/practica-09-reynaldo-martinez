@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuiaPractica9RM", "GuiaPractica9MC\GuiaPractica9RM.csproj", "{FAA0042A-3B5A-4788-9049-B78E6D6DD220}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FAA0042A-3B5A-4788-9049-B78E6D6DD220}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAA0042A-3B5A-4788-9049-B78E6D6DD220}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAA0042A-3B5A-4788-9049-B78E6D6DD220}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAA0042A-3B5A-4788-9049-B78E6D6DD220}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A42D339A-7380-4EDA-B972-0B703576CF82}
+	EndGlobalSection
+EndGlobal

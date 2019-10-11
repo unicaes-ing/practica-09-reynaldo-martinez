@@ -1,0 +1,10 @@
+C:\Users\carra\source\repos\Unicaes\GuiaPractica9MC\GuiaPractica9MC\bin\Debug\GuiaPractica9MC.exe.config
+C:\Users\carra\source\repos\Unicaes\GuiaPractica9MC\GuiaPractica9MC\bin\Debug\GuiaPractica9MC.exe
+C:\Users\carra\source\repos\Unicaes\GuiaPractica9MC\GuiaPractica9MC\bin\Debug\GuiaPractica9MC.pdb
+C:\Users\carra\source\repos\Unicaes\GuiaPractica9MC\GuiaPractica9MC\obj\Debug\GuiaPractica9MC.csprojAssemblyReference.cache
+C:\Users\carra\source\repos\Unicaes\GuiaPractica9MC\GuiaPractica9MC\obj\Debug\GuiaPractica9MC.csproj.CoreCompileInputs.cache
+C:\Users\carra\source\repos\Unicaes\GuiaPractica9MC\GuiaPractica9MC\obj\Debug\GuiaPractica9MC.exe
+C:\Users\carra\source\repos\Unicaes\GuiaPractica9MC\GuiaPractica9MC\obj\Debug\GuiaPractica9MC.pdb
+C:\proyectos\GuiaPractica9RM\GuiaPractica9MC\bin\Debug\GuiaPractica9MC.exe.config
+C:\proyectos\GuiaPractica9RM\GuiaPractica9MC\obj\Debug\GuiaPractica9MC.exe
+C:\proyectos\GuiaPractica9RM\GuiaPractica9MC\obj\Debug\GuiaPractica9MC.pdb
